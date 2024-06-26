@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* This is my first flutter package.
+
+## 0.1.0
+
+* Minor bug change.
