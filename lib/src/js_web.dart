@@ -1,4 +1,4 @@
-// Import dart:js and show the context symbol
+// Import dart:js only for web
 import 'dart:js' show context;
 
 String getImageUrl() {

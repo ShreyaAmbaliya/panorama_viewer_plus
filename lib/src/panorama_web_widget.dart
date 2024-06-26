@@ -17,7 +17,7 @@ class PanoramaWebWidget extends StatefulWidget {
 class _PanoramaWebWidgetState extends State<PanoramaWebWidget> {
   late PlatformWebViewController _controller;
 
-  var jsData;
+  var jsData='''''';
 
   var isloading = true;
 
@@ -44,8 +44,8 @@ class _PanoramaWebWidgetState extends State<PanoramaWebWidget> {
       width: widget.w,
       height: widget.h,
       color: Colors.grey.shade400,
-      child: _controller == null && isloading
-          ? CircularProgressIndicator()
+      child: isloading
+          ? const CircularProgressIndicator()
           : PlatformWebViewWidget(
               PlatformWebViewWidgetCreationParams(controller: _controller),
             ).build(context),

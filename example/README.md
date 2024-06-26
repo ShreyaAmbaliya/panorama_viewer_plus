@@ -1,6 +1,6 @@
-# example
+# panorama_viewer_plus_example
 
-A new Flutter project.
+Demonstrates how to use the panorama_viewer_plus plugin.
 
 ## Getting Started
 

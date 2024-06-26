@@ -149,8 +149,8 @@ class PanoramaState extends State<PanoramaViewer>
   double zoomDelta = 0;
   late Offset _lastFocalPoint;
   double? _lastZoom;
-  double _radius = 500;
-  double _dampingFactor = 0.05;
+  final double _radius = 500;
+  final double _dampingFactor = 0.05;
   double _animateDirection = 1.0;
   double _animSpeed = 0.0;
   late AnimationController _controller;
