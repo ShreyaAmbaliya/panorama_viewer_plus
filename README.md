@@ -4,6 +4,11 @@ A 360-degree panorama viewer.
 
 This package is an updated porting of the plugin https://github.com/dariocavada/panorama_viewer
 
+
+## Screenshot
+
+![screenshot](https://github.com/ShreyaAmbaliya/panorama_viewer_plus/raw/main/resource/screenshot.gif)
+
 ## Getting Started
 
 Add panorama as a dependency in your pubspec.yaml file.
