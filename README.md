@@ -7,7 +7,7 @@ This package is an updated porting of the plugin https://github.com/dariocavada/
 
 ## Screenshot
 
-![screenshot](https://github.com/ShreyaAmbaliya/panorama_viewer_plus/raw/main/resource/screenshot.gif)
+![screenshot](https://github.com/ShreyaAmbaliya/panorama_viewer_plus/raw/main/resource/screenshot.mp4)
 
 ## Getting Started
 
