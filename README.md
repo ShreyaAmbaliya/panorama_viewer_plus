@@ -1,4 +1,4 @@
-# Panorama Viewer
+# Panorama Viewer Plus
 
 A 360-degree panorama viewer.
 
