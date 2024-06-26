@@ -1,6 +1,6 @@
 name: panorama_viewer_plus
 description: "Panorama Viewer - A 360-degree panorama viewer."
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/ShreyaAmbaliya/panorama_viewer_plus
 
 environment:
