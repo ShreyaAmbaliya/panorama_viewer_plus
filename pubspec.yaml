@@ -85,6 +85,6 @@ flutter:
 topics:
   - widget
   - panorama
-  - 360degree-view
+  - image-360degree-viewer
   - panorama-viewer
   - web-support
