@@ -1,6 +1,6 @@
 name: panorama_viewer_plus
-description: "Panorama Viewer - A 360-degree panorama viewer."
-version: 0.1.0
+description: "Panorama Viewer Plus - A 360-degree panorama viewer. Supports: Android, iOS, Tablet, Web Support(Mobile/Desktop)."
+version: 0.1.1
 homepage: https://github.com/ShreyaAmbaliya/panorama_viewer_plus
 
 environment:
@@ -82,3 +82,10 @@ flutter:
   #
   # For details regarding fonts in packages, see
   # https://flutter.dev/custom-fonts/#from-packages
+topics:
+  - ui
+  - widget
+  - panorama
+  - 360degree-view
+  - panorama-viewer
+  - web-support

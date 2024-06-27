@@ -1,7 +1,11 @@
 ## 0.0.1
 
-* This is my first flutter package.
+* Initial release of panorama_viewer_plus
 
 ## 0.1.0
 
-* Minor bug change.
+* Update LICENSE
+
+## 0.1.1
+
+* Update README.md

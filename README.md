@@ -1,6 +1,7 @@
 # Panorama Viewer Plus
 
 A 360-degree panorama viewer.
+Supported platforms: Android, iOS, Tablet, Web Support(Mobile/Desktop).
 
 This package is an updated porting of the plugin https://github.com/dariocavada/panorama_viewer
 
@@ -41,6 +42,28 @@ Widget build(BuildContext context) {
 }
 ```
 
+### Set `isAssetImage` to `true` to view an asset image
+
+```dart
+import 'package:panorama_viewer_plus/panorama_viewer_plus.dart';
+... ...
+
+@override
+Widget build(BuildContext context) {
+  var deviceSize = MediaQuery.of(context).size;
+  return Scaffold(
+    appBar: AppBar(title: const Text("Custom Panorama Viewer")),
+    body: Center(
+      child: CustomPanoramaViewer(
+        imagePath:'assets/test.jpg',
+        isAssetImage:true,
+        width: deviceSize.width,
+        height: 220,
+      ),
+    ),
+  );
+}
+```
 
 ## Support :heart:
 
