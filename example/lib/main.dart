@@ -39,8 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       body: Center(
         child: CustomPanoramaViewer(
-          imagePath:
-              'https://firebasestorage.googleapis.com/v0/b/travelbrains-flutter-mtg.appspot.com/o/media%2FRvoGlxBvpUY1sg6vi5KA5guDzVn1%2F1689264672_1689264672013_1689264672013000_gb_cem_stop5-2.jpg?alt=media&token=cc50d7b5-c241-47c9-b4ac-55b3608eecf5',
+          imagePath: 'https://raw.githubusercontent.com/ShreyaAmbaliya/panorama_viewer_plus/main/example/assets/test.jpg',
           width: deviceSize.width,
           height: deviceSize.height,
         ),

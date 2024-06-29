@@ -1,6 +1,6 @@
 name: panorama_viewer_plus
 description: "Panorama Viewer Plus - A 360-degree panorama viewer. Supports: Android, iOS, Tablet, Web Support(Mobile/Desktop)."
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/ShreyaAmbaliya/panorama_viewer_plus
 
 environment:
